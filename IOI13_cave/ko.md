@@ -20,7 +20,7 @@
 
 #### 그레이더 함수 : `tryCombination()`
 
-```
+``` c++
 int tryCombination (int S[]);
 ```
 
@@ -36,7 +36,7 @@ int tryCombination (int S[]);
 
 #### 그레이더 함수 : `answer()`
 
-```
+``` c++
 void answer (int S[], int D[]);
 ```
 
@@ -52,7 +52,7 @@ void answer (int S[], int D[]);
 
 #### 구현해야 하는 함수 : `exploreCave()`
 
-```
+``` c++
 void exploreCave (int N);
 ```
 
@@ -140,9 +140,10 @@ void exploreCave (int N);
  </tr>
 </table>
 
+
 ### 테스트용 입력 형식
 
-[여기](https://s3.ap-northeast-2.amazonaws.com/oj.uz/old/IOI13_cave/cave.zip?dl=1)에 주어지는 샘플 그레이더는 입력을 파일 cave.in에서 읽어들이는데,
+[여기](https://s3.ap-northeast-2.amazonaws.com/oj.uz/old/IOI13_cave/cave.zip)에 주어지는 샘플 그레이더는 입력을 파일 cave.in에서 읽어들이는데,
 포맷은 다음과 같아야 한다.
 
 * line 1: `N`
