@@ -83,7 +83,7 @@ void changeH (int P, int Q, int W);
 
 #### 구현해야 하는 함수 : `changeV()`
 
-```
+``` c++
 void changeV (int P, int Q, int W);
 ```
 
@@ -100,8 +100,9 @@ void changeV (int P, int Q, int W);
 
 #### 구현해야 하는 함수 : `escape()`
 
-```
+``` c++
 int escape (int V1, int V2);
+
 ```
 
 ##### 설명
